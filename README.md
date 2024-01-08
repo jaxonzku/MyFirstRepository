@@ -1,0 +1,2 @@
+# MyFirstRepository
+outscal git class
